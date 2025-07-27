@@ -1,3 +1,4 @@
+HEAD
 # Ignore build output
 *.exe
 *.out
@@ -14,3 +15,21 @@
 # Ignore OS-generated files
 .DS_Store
 Thumbs.db
+=======
+# Ignore build output
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore VS Code settings (if you're using it)
+.vscode/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+267586d (Updated README, .gitignore and main.cpp)
