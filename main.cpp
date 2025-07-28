@@ -32,7 +32,6 @@ int main() {
     file.close();
     return 0;
 }
-=======
 #include <iostream>
 #include <filesystem>
 #include <fstream>
