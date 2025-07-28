@@ -1,16 +1,3 @@
-HEAD
-
-4. Save the file.
-
----
-
-### 3. ✅ `main.cpp`
-
-1. Open `main.cpp`.
-2. Delete anything that’s inside.
-3. Paste this:
-
-```cpp
 #include <iostream>
 #include <filesystem>
 #include <fstream>
