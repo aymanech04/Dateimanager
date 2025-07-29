@@ -1,4 +1,5 @@
 # 📁 Dateimanager
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 > 🗣️ Dieses Projekt zeigt grundlegende Fähigkeiten in C++ und der Nutzung von `std::filesystem`.  
 > Ziel: Dateien im aktuellen Verzeichnis anzeigen und deren Inhalt im Terminal lesen.  
